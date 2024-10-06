@@ -1,5 +1,5 @@
-.pdf
-.PDF
-.docx
-.xlsx
-.pptx
+*.pdf
+*.PDF
+*.docx
+*.xlsx
+*.pptx
