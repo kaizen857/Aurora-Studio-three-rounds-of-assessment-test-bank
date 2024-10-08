@@ -1,0 +1,6 @@
+PA5 -> SCK
+PA7 -> DATA
+PA1 -> CS
+PA3 -> RESET
+3V3 -> FILAMENT_EN
+GND -> GND
